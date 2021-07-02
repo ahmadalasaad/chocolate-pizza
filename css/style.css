@@ -164,3 +164,8 @@ footer #upFootr h3{
      opacity:70%;
 
  }
+
+input:checked + label {
+   
+    text-decoration: line-through;
+  }
